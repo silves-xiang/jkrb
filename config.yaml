@@ -1,0 +1,19 @@
+#数据库所在ip地址
+MysqlAdd:
+#数据库服务端口
+MysqlPort:
+#所用数据库名称
+MysqlDatabase:
+#登录数据库username
+MysqlUser:
+#登录数据库密码
+MysqlPwd:
+#出现问题会发送邮件，目前只支持qq邮件
+EmailPoster:
+#qq邮件的密码
+EmailPwd:
+#填报时间，24小时制。此处填几点
+Time:
+#填报时间，24小时制，填分
+Minites:
+#比如每天6：05填报，使用Time: 6 ， Minites: 5
